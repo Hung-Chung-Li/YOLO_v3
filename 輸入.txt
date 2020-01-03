@@ -1,0 +1,2 @@
+1. #darknet下的yolov3配置文件转换成keras适用的h5文件
+python convert.py yolov3.cfg yolov3.weights model_data/yolo.h5 
